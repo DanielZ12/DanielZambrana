@@ -79,6 +79,10 @@ button:hover,
   color: #ffffff;
   background-color: #ef3a25;
 }
+.button.button-pdf {
+  color : #ffffff;
+  background-color: #7ed957;
+}
 .button.button-default:hover,
 .button.button-default:focus {
   filter: brightness(90%);
